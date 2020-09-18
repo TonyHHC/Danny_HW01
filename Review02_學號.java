@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class HelloWorld{
+public class HW1{
 
      public static void main(String []args){
          
