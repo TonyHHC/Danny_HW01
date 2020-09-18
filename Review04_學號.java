@@ -75,7 +75,7 @@ public class HW1{
         // 建立新陣列
         int [][] aryNewArray = new int[iNewArrayRowLength][iNewArrayColLength];
          
-        //
+        // 開始相乘
         for (int i = 0; i < a.length; i++){
             for (int j = 0; j < b[0].length; j++) {
                 for (int k = 0; k < a[0].length; k++) {
